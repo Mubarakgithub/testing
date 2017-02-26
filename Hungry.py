@@ -6,7 +6,3 @@ else:
     print "No i'm not hungry"
 
 print "Gud bye"
-print "sweet dreams"
-print "Hot dreams"
-
-print "pizza"
