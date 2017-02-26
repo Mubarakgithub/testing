@@ -7,3 +7,4 @@ else:
 
 print "Gud bye"
 print "sweet dreams"
+print "Hot dreams"
